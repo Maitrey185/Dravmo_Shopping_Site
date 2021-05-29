@@ -1,0 +1,57 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "React example starter project",
+  "keywords": [
+    "react",
+    "starter"
+  ],
+  "main": "src/index.js",
+  "dependencies": {
+    "@daym3l/react-profile-image": "1.3.2",
+    "@fluentui/react-icons": "1.1.113",
+    "@fortawesome/react-fontawesome": "0.1.14",
+    "@material-ui/core": "4.11.3",
+    "@material-ui/icons": "4.11.2",
+    "@material-ui/styles": "4.11.3",
+    "@meronex/icons-ai": "1.0.1",
+    "axios": "0.21.1",
+    "emailjs": "3.4.0",
+    "emailjs-com": "2.6.4",
+    "font-awesome": "4.7.0",
+    "image-upload-react": "1.4.9",
+    "prop-types": "15.7.2",
+    "react": "17.0.2",
+    "react-bootstrap": "1.5.2",
+    "react-bootstrap-personalized-counter": "1.0.6",
+    "react-dom": "17.0.2",
+    "react-icons": "4.2.0",
+    "react-map-gl": "6.1.11",
+    "react-native-counters": "1.2.0",
+    "react-native-numeric-input": "1.8.3",
+    "react-native-vector-icons": "8.1.0",
+    "react-native-web": "0.15.3",
+    "react-redux": "7.2.3",
+    "react-router-dom": "5.2.0",
+    "react-scripts": "4.0.0",
+    "react-user-profile": "1.0.3",
+    "reactjs-popup": "2.0.4",
+    "styled-components": "5.2.1"
+  },
+  "devDependencies": {
+    "@babel/runtime": "7.13.8",
+    "typescript": "4.1.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}

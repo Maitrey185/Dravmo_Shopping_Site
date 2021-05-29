@@ -1,0 +1,116 @@
+.welcome-body {
+  width: 100%;
+  height: 100%;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+    url(https://images.unsplash.com/photo-1441986300917-64674bd600d8?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80);
+  background-position: center;
+  background-size: cover;
+}
+
+.row {
+  display: flex;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.welcome-title {
+  color: white;
+  font-size: 100px;
+  font-family: "Berkshire Swash";
+  font-weight: 100;
+}
+
+#bh {
+  width: 10em;
+  margin-right: 20px;
+  border-radius: 20px;
+}
+.w-card {
+  width: 200px;
+  height: 230px;
+  display: inline-block;
+  border-radius: 10px;
+  padding: 15px 25px;
+  box-sizing: border-box;
+  cursor: pointer;
+  margin: 10px 15px;
+  background-position: center;
+  background-size: cover;
+  transition: 0.5s;
+}
+
+.c1 {
+  background-image: url(https://clipground.com/images/us-polo-assn-logo-1.jpg);
+}
+
+.c2 {
+  background-image: url(https://sguru.org/wp-content/uploads/2018/02/adidas-blue-logo-png-download-1.png);
+}
+
+.c3 {
+  background-image: url(https://seeklogo.com/images/H/hrx-logo-0BCB89CB63-seeklogo.com.png);
+}
+
+.c4 {
+  background-image: url(https://d3dz4rogqkqh6r.cloudfront.net/uploads/files/2016/11/yimg_zXF3N8-640x633.jpg);
+}
+
+.card:hover {
+  transform: translateY(-10px);
+}
+
+#login-main {
+  background-color: #83c5be;
+  padding: 30px;
+  border-radius: 10px;
+  margin-top: 120px;
+}
+
+#login_body {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
+    url(https://images.unsplash.com/photo-1470645792662-dd18394f8c97?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1050&q=80);
+  background-position: center;
+  background-size: cover;
+}
+
+label {
+  color: #ffffff;
+}
+
+.login-signup {
+  position: relative;
+  width: 480px;
+  margin: 30px auto 20px auto;
+  padding: 15px;
+  border-radius: 7px;
+  border-style: solid;
+  border-width: thin;
+  border-color: #ffffff;
+}
+
+.small-text {
+  text-align: center;
+  font-size: 16px;
+  color: #ffffff;
+}
+
+.cardtile {
+  transition: 0.5s;
+  cursor: pointer;
+  background-color: #f0efeb;
+}
+
+.card:hover {
+  transform: translateY(-10px);
+}
+
+.main-page-body {
+  background-color: #e5e5e5;
+}
+
+#c1 {
+  transition: 0.5s;
+}
+#c1:hover  {
+  transform: translateY(-10px);
+}

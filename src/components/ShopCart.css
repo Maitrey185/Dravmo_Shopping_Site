@@ -1,0 +1,95 @@
+.number {
+  margin: 100px;
+}
+.minus,
+.plus {
+  width: 20px;
+  height: 20px;
+  background: #f2f2f2;
+  border-radius: 4px;
+  padding: 8px 5px 8px 5px;
+  border: 1px solid #ddd;
+  display: inline-block;
+  vertical-align: middle;
+  text-align: center;
+}
+
+.text {
+  height: 34px;
+  width: 100px;
+  text-align: center;
+  font-size: 26px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.shop_cart_body {
+  background-color: #e5e5e5;
+}
+
+.shop_cart_container {
+  background-color: #fff;
+  border-radius: 10px;
+}
+
+.shop_cart_head {
+  font-weight: 350;
+  text-align: center;
+}
+
+.shop_cart_price {
+  font-weight: 400;
+}
+
+.shop_cart_comp {
+  font-weight: 400;
+  color: grey;
+}
+
+.shop_cart_stock {
+  color: green;
+}
+
+.shop_cart_eligibility {
+  font-weight: 700;
+}
+
+.shop_cart_describe {
+  font-weight: 600;
+}
+
+.shop_cart_quantity {
+  width: 70px;
+}
+
+.shop_cart_quan_col {
+  border-right: 2px solid #e5e5e5;
+}
+
+.shop_cart_trash_col {
+  border-right: 2px solid #e5e5e5;
+}
+
+.shop_cart_similar {
+  font-size: 15px;
+}
+
+.shop_cart_a {
+  text-decoration: none;
+  color: #84a59d;
+}
+
+.shop_cart_a:hover {
+  color: #84a59d;
+  text-decoration: underline;
+}
+
+.shop_cart_lead_desc {
+  font-size: 1em;
+}
+
+.shop_cart_but {
+  border-radius: 100px;
+}

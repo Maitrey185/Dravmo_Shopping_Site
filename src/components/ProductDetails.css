@@ -1,0 +1,73 @@
+.pro_body {
+  background-color: #e5e5e5;
+}
+
+.pro_container {
+  background-color: #fff;
+  border-radius: 10px;
+}
+
+.pro_product_by {
+  font-weight: 400;
+  color: grey;
+}
+
+.pro_price {
+  font-size: 30px;
+  color: #e63946;
+}
+
+.pro_tax {
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.pro_stock {
+  color: green;
+}
+
+.pro_desc {
+  font-weight: 600;
+}
+
+.pro_three {
+  color: #84a59d;
+}
+
+.pro_three:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.pro_pro_desc {
+  font-size: 15px;
+}
+
+.uu {
+  cursor: pointer;
+}
+.number {
+  margin: 100px;
+}
+.minus,
+.plus {
+  width: 20px;
+  height: 20px;
+  background: #f2f2f2;
+  border-radius: 4px;
+  padding: 8px 5px 8px 5px;
+  border: 1px solid #ddd;
+  display: inline-block;
+  vertical-align: middle;
+  text-align: center;
+}
+.oo {
+  height: 34px;
+  width: 100px;
+  text-align: center;
+  font-size: 26px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  display: inline-block;
+  vertical-align: middle;
+}

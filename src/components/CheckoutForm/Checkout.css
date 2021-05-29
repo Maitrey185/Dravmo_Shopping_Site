@@ -1,0 +1,33 @@
+.ch-container {
+  max-width: 960px;
+}
+
+.lh-condensed {
+  line-height: 1.25;
+}
+
+.invalid-feedback {
+  width: 100%;
+}
+
+.myclass {
+  height: 20px;
+}
+.pop {
+  color: green;
+}
+
+.reveal-if-active {
+  opacity: 0;
+  max-height: 0;
+  overflow: hidden;
+  transform: scale(0.8);
+  transition: 0.5s;
+  input[type="radio"]: checked ~ & {
+    opacity: 1;
+    max-height: 100px;
+    overflow: visible;
+    padding: 10px 20px;
+    transform: scale(1);
+  }
+}

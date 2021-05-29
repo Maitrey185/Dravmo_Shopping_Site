@@ -1,0 +1,19 @@
+{
+  "Stations": [
+    {
+      "ID": 1,
+      "coordinates": [19.128224, 72.849032],
+      "info": "Branch 1"
+    },
+    {
+      "ID": 2,
+      "coordinates": [19.121469, 72.876783],
+      "info": "Branch 2"
+    },
+    {
+      "ID": 3,
+      "coordinates": [19.14327, 72.860192],
+      "info": "Branch 3"
+    }
+  ]
+}
